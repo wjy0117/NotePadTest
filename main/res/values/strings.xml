@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NotePad</string>
+
+    <string-array name="category_array">
+        <item>기본</item>
+        <item>공부</item>
+        <item>취미</item>
+    </string-array>
+
+    <string-array name="align_array">
+        <item>작성일(최신순)</item>
+        <item>제목순(ㄱ-ㅎ)</item>
+    </string-array>
+</resources>
